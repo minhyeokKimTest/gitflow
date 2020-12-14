@@ -14,4 +14,10 @@ public class Feature2ServiceImpl implements Feature2Service {
 		return null;
 	}
 
+	@Override
+	public String hello() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
