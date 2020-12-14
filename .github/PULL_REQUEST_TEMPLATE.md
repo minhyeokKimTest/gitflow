@@ -1,5 +1,4 @@
-#A
+### Redmine issue
+http://redmine.newzensolution.co.kr:8888/issues/
 
-#B
-
-#C 
+### 적용사항
