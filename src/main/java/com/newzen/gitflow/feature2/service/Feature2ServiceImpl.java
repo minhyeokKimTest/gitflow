@@ -16,7 +16,7 @@ public class Feature2ServiceImpl implements Feature2Service {
 
 	@Override
 	public String hello() {
-		// TODO Auto-generated method stub
+		System.out.println("##### 반갑습니다.");
 		return null;
 	}
 
